@@ -1,5 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 1
+#EXTINF:-1 group-title="M sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e87c8731b86d92c957d8bb216cc70a3:e0f098f4c2c54be0911a12b96b469b82
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/irzmr34ebk/out/v1/6cd7efb72fd04edcaaef15c290c6fa9d/cenc.mpd
+
+#EXTINF:-1 group-title="M sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02b6e65ff2e3c3cf55a52426e03161dc:8cd7fa1463f0e7624725e89389d181e6
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ksczi4sz0e/out/v1/a3f76c40f2c74804876697c4c284780f/cenc.mpd
+
+#EXTINF:-1 group-title="Msports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/83taeafait/out/v1/8f460e2902ee422e9ee8229e6de25719/cenc.mpd
