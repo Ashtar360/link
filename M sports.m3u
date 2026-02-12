@@ -1,9 +1,6 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7JsT97R6/a-sleek-professional-television-channel-k0s-Gqv-F4-Rfa-MPGG8x8-Ao-Bg-Nxp-WWef-BSL.jpg" group-title="EXTRAS",EMAX TV
 https://emaxtv.exmax.workers.dev/emax.m3u8
-
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="EXTRAS", Willow HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
