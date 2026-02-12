@@ -135,8 +135,12 @@ https://cc-y2z89muounal4.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #KODIPROP:inputstream.adaptive.license_key=
 https://cc-oq5ndvigrlkaa.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oq5ndvigrlkaa/IQJW/WBD/FoodieHub_IN/FoodieHub_IN.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750321954030.webp?id=31" group-title="Sdm Live Tv",Pk: PTV Sports  
+#EXTINF:-1 tvg-id="" tvg-name="SP: ptv sports" tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/logo/1750321954030.webp?id=31" group-title="Sdm Live Tv",Pk: PTV Sports  
 https://ranapk.online/tvd/play.php?id=911324
+http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F453434.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sdm Live Tv",Pk: Asports  
+https://webott.viatv.com.np/v0t1/ASportsHd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CR: Ary Digital" tvg-logo="https://stmify.com/wp-content/uploads/2025/01/485-s-300x169.webp?id=98" group-title="Sdm Live Tv",PK: Geo Super 
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
