@@ -25,12 +25,12 @@ https://a120live-pv-ta-amazon.akamaized.net/syd-nitro/live/clients/dash/enc/83ta
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
-#EXTINF:-1 tvg-id=" Andtvhd" tvg-logo="https://png" group-title="EXTRAS", Andtvhd
+#EXTINF:-1 tvg-id=" Andtv Hd" tvg-logo="https://png" group-title="EXTRAS", Andtvhd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 
-#EXTINF:-1 tvg-id=" Andtv" tvg-logo="https://png" group-title="EXTRAS", Andtv
+#EXTINF:-1 tvg-id=" And tv" tvg-logo="https://png" group-title="EXTRAS", Andtv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
@@ -40,12 +40,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 
-#EXTINF:-1 tvg-id=" Discoverychannel" tvg-logo="https://png" group-title="EXTRAS", Discoverychannel
+#EXTINF:-1 tvg-id=" Discovery" tvg-logo="https://png" group-title="EXTRAS", Discoverychannel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 
-#EXTINF:-1 tvg-id=" Zoom2" tvg-logo="https://png" group-title="EXTRAS", Zoom2
+#EXTINF:-1 tvg-id=" Zoom 2" tvg-logo="https://png" group-title="EXTRAS", Zoom2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
