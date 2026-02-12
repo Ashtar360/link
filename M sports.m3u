@@ -141,9 +141,13 @@ https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2F
 
 #EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sdm Live Tv",Pk: Asports  
 https://webott.viatv.com.np/v0t1/ASportsHd/playlist.m3u8
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F190767.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CR: Ary Digital" tvg-logo="https://stmify.com/wp-content/uploads/2025/01/485-s-300x169.webp?id=98" group-title="Sdm Live Tv",PK: Geo Super 
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="CR: willow 2 " tvg-logo="https://stmify.com/wp-content/uploads/2024/08/32-s-300x169.webp.?=channelTile" group-title="Sdm Live Tv",PK: Willow 2
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52106.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CR: willow 2 " tvg-logo="https://stmify.com/wp-content/uploads/2024/08/32-s-300x169.webp.?=channelTile" group-title="Sdm Live Tv",PK: Willow 2
 https://ranapk.online/tvd/play.php?id=858676
