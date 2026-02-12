@@ -1,169 +1,214 @@
-#EXTM3U
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7JsT97R6/a-sleek-professional-television-channel-k0s-Gqv-F4-Rfa-MPGG8x8-Ao-Bg-Nxp-WWef-BSL.jpg" group-title="EXTRAS",EMAX TV
-https://emaxtv.exmax.workers.dev/emax.m3u8
-
-
-#EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.ibb.co/25LyH5D/20240727-041020.png" group-title="EXTRAS", Willow HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-#EXTINF:-1 tvg-id="Nba" tvg-logo="https://i.postimg.cc/RZHNT7Fy/National-Basketball-Association-logo.jpg" group-title="EXTRAS", Nba HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a41c95c1e6a751d5a933a3f51577d64e:133ac215f2ae4e9f2e12e53039feb218
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehrpudmjpv/out/v1/fc790c2a85e14cbe9b8b7ce51004612f/cenc.mpd
-
-#EXTINF:-1 tvg-id="Tnt1" tvg-logo="https://iili.io/dIH66J4.png" group-title="EXTRAS", Tnt1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="Tnt2" tvg-logo="https://iili.io/dIH6rgf.png" group-title="EXTRAS", Tnt2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-id="Tnt3" tvg-logo="https://iili.io/dIH68sn.png" group-title="EXTRAS", Tnt3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="Tnt4" tvg-logo="https://iili.io/dIH6g0G.png" group-title="EXTRAS", Tnt4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://iili.io/HpZ3vrx.png" group-title="EXTRAS", Eurosport1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://iili.io/HpZ3SdQ.png" group-title="EXTRAS", Eurosport2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="Beinsports1" tvg-logo="https://iili.io/HpLlECJ.png" group-title="EXTRAS", Beinsports1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335DAD778109954503DCBB21DC92015F:24bfd75d436cbf73168a2a2dccd40281
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 tvg-id="Beinsports2" tvg-logo="https://iili.io/HpLl0Qa.png" group-title="EXTRAS", Beinsports2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-id="Beinsports3" tvg-logo="https://iili.io/HpLlGEv.png" group-title="EXTRAS", Beinsports3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="Fubosports" tvg-logo="https://i.postimg.cc/tTTbBbk0/rv0XWn48d-Vz-ATzu4IZHTBXb-RMb-92PMy-B8l-AIUfu-V-QA2nm-GF2i4VBdh-FH88CO5Ptt8.jpg" group-title="EXTRAS", Fubosports HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-
-#EXTINF:-1 tvg-id="Stansports" tvg-logo="https://i.postimg.cc/L6BH4xn0/e-Zv5m-Pjpu-Tze-UJ-LZilidr-HQ2Wd-EJQ8ia1gd-ZBS9yq9vep-A44u-Ax1ga-O6IRSdccwwx-Qpsh51i-RM-s900-c-k-c0x.jpg" group-title="EXTRAS", Stansports HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47d7323b1dc94aefb93575777fc39f88:921a0f8dd21e57ab2daeb26b952a96f9
-https://awslive01.stan.video/out/v1/9fabd94957f74cb1965cabd9c8f411e3/index.mpd
-
-#EXTINF:-1 tvg-id="Spotv2" tvg-logo="https://i.ibb.co/KGK6MNF/Picsart-24-07-27-01-35-56-981.png" group-title="EXTRAS", Spotv2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-
-#EXTINF:-1 tvg-id="U19 WORLD CUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9BXx5bC1zbjylltbLPQ3HCYCJa9nl5nGY2lbQXXnrw&s" group-title="EXTRAS", U19 WORLD CUP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/b5sgygmi5r/out/v1/450d606c6a17471f84d09372f55004e2/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7JsT97R6/a-sleek-professional-television-channel-k0s-Gqv-F4-Rfa-MPGG8x8-Ao-Bg-Nxp-WWef-BSL.jpg" group-title="EXTRAS",HAR PAL GEO HD
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
-
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png", TOFFEE Sports VIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png", TOFFEE Movies VIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png", TOFFEE Dramas VIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png", CNN VIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png", Somoy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png", Jamuna TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/NCLx35oBEef-9-uVh-Dg/posters/af9773c7-7971-41a2-9b78-121fcb240c48.png", ATN News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/atn_news/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/MCLv35oBEef-9-uVH-D2/posters/0d1e571c-ebb2-4277-9814-760a4f1603a6.png", ATN Bangla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/atn_bangla/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com//wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png", Ananda TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/anandatv/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com//bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png", Bijoy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/bijoytv/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png", Global TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/global_tv/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com//WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png", Channel S
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com//JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png", Bangla TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com//MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png", Asian TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/asian_tv/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png", Channel i
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png", Ekhon TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com//PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png", Ekattor TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png", Euro Sport HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/PnZefJcBcqxnFHJBoxca/posters/955ae898-8336-4936-8d78-c6b8866e35f7.png", ICC Test Championship Highlights
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/icc_wtc_final/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png", SONY SPORTS TEN 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1771036503:KeyName=prod_linear:Signature=m_ViE66fBv5HhuScGLx3QSJjEUDTVlp34y5H1giClH1lO0TKSfszlqXj-3tBCA0BnEHjoDrb6hqtK-d7iyNNCw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8
-#EXTINF:-1 group-title="FIT😁" tvg-chn
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 600
+http://103.175.73.12:8080/live/600/600_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 601
+http://103.175.73.12:8080/live/601/601_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 603
+http://103.175.73.12:8080/live/603/603_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 604
+http://103.175.73.12:8080/live/604/604_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 606
+http://103.175.73.12:8080/live/606/606_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 607
+http://103.175.73.12:8080/live/607/607_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 609
+http://103.175.73.12:8080/live/609/609_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 610
+http://103.175.73.12:8080/live/610/610_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 611
+http://103.175.73.12:8080/live/611/611_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 613
+http://103.175.73.12:8080/live/613/613_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 615
+http://103.175.73.12:8080/live/615/615_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 617
+http://103.175.73.12:8080/live/617/617_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 618
+http://103.175.73.12:8080/live/618/618_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 620
+http://103.175.73.12:8080/live/620/620_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 621
+http://103.175.73.12:8080/live/621/621_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 625
+http://103.175.73.12:8080/live/625/625_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 626
+http://103.175.73.12:8080/live/626/626_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 627
+http://103.175.73.12:8080/live/627/627_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 628
+http://103.175.73.12:8080/live/628/628_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 629
+http://103.175.73.12:8080/live/629/629_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 630
+http://103.175.73.12:8080/live/630/630_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 631
+http://103.175.73.12:8080/live/631/631_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 632
+http://103.175.73.12:8080/live/632/632_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 633
+http://103.175.73.12:8080/live/633/633_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 634
+http://103.175.73.12:8080/live/634/634_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 635
+http://103.175.73.12:8080/live/635/635_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 636
+http://103.175.73.12:8080/live/636/636_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 637
+http://103.175.73.12:8080/live/637/637_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 638
+http://103.175.73.12:8080/live/638/638_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 640
+http://103.175.73.12:8080/live/640/640_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 641
+http://103.175.73.12:8080/live/641/641_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 642
+http://103.175.73.12:8080/live/642/642_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 644
+http://103.175.73.12:8080/live/644/644_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 645
+http://103.175.73.12:8080/live/645/645_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 646
+http://103.175.73.12:8080/live/646/646_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 647
+http://103.175.73.12:8080/live/647/647_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 648
+http://103.175.73.12:8080/live/648/648_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 649
+http://103.175.73.12:8080/live/649/649_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 650
+http://103.175.73.12:8080/live/650/650_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 652
+http://103.175.73.12:8080/live/652/652_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 653
+http://103.175.73.12:8080/live/653/653_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 654
+http://103.175.73.12:8080/live/654/654_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 655
+http://103.175.73.12:8080/live/655/655_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 656
+http://103.175.73.12:8080/live/656/656_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 657
+http://103.175.73.12:8080/live/657/657_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 658
+http://103.175.73.12:8080/live/658/658_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 660
+http://103.175.73.12:8080/live/660/660_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 661
+http://103.175.73.12:8080/live/661/661_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 662
+http://103.175.73.12:8080/live/662/662_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 663
+http://103.175.73.12:8080/live/663/663_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 664
+http://103.175.73.12:8080/live/664/664_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 665
+http://103.175.73.12:8080/live/665/665_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 667
+http://103.175.73.12:8080/live/667/667_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 668
+http://103.175.73.12:8080/live/668/668_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 669
+http://103.175.73.12:8080/live/669/669_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 670
+http://103.175.73.12:8080/live/670/670_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 671
+http://103.175.73.12:8080/live/671/671_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 672
+http://103.175.73.12:8080/live/672/672_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 673
+http://103.175.73.12:8080/live/673/673_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 674
+http://103.175.73.12:8080/live/674/674_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 675
+http://103.175.73.12:8080/live/675/675_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 676
+http://103.175.73.12:8080/live/676/676_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 678
+http://103.175.73.12:8080/live/678/678_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 679
+http://103.175.73.12:8080/live/679/679_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 680
+http://103.175.73.12:8080/live/680/680_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 681
+http://103.175.73.12:8080/live/681/681_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 682
+http://103.175.73.12:8080/live/682/682_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 683
+http://103.175.73.12:8080/live/683/683_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 684
+http://103.175.73.12:8080/live/684/684_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 686
+http://103.175.73.12:8080/live/686/686_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 687
+http://103.175.73.12:8080/live/687/687_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 688
+http://103.175.73.12:8080/live/688/688_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 689
+http://103.175.73.12:8080/live/689/689_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 690
+http://103.175.73.12:8080/live/690/690_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 691
+http://103.175.73.12:8080/live/691/691_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 692
+http://103.175.73.12:8080/live/692/692_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 693
+http://103.175.73.12:8080/live/693/693_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 694
+http://103.175.73.12:8080/live/694/694_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 695
+http://103.175.73.12:8080/live/695/695_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 697
+http://103.175.73.12:8080/live/697/697_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 698
+http://103.175.73.12:8080/live/698/698_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 699
+http://103.175.73.12:8080/live/699/699_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 700
+http://103.175.73.12:8080/live/700/700_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 701
+http://103.175.73.12:8080/live/701/701_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 702
+http://103.175.73.12:8080/live/702/702_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 704
+http://103.175.73.12:8080/live/704/704_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 705
+http://103.175.73.12:8080/live/705/705_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 706
+http://103.175.73.12:8080/live/706/706_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 707
+http://103.175.73.12:8080/live/707/707_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 708
+http://103.175.73.12:8080/live/708/708_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 709
+http://103.175.73.12:8080/live/709/709_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 710
+http://103.175.73.12:8080/live/710/710_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 711
+http://103.175.73.12:8080/live/711/711_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 712
+http://103.175.73.12:8080/live/712/712_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 713
+http://103.175.73.12:8080/live/713/713_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 714
+http://103.175.73.12:8080/live/714/714_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 715
+http://103.175.73.12:8080/live/715/715_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 716
+http://103.175.73.12:8080/live/716/716_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 718
+http://103.175.73.12:8080/live/718/718_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 724
+http://103.175.73.12:8080/live/724/724_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 728
+http://103.175.73.12:8080/live/728/728_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 730
+http://103.175.73.12:8080/live/730/730_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 732
+http://103.175.73.12:8080/live/732/732_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 734
+http://103.175.73.12:8080/live/734/734_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 736
+http://103.175.73.12:8080/live/736/736_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 738
+http://103.175.73.12:8080/live/738/738_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 740
+http://103.175.73.12:8080/live/740/740_0.m3u8
