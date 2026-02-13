@@ -238,7 +238,19 @@ https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2F
 #EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 5 HD
 https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F453435.m3u8
 
+EXTINF:-1 group-title="Msports" tvg-logo=", Astro Cricket HD
+https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F451415.m3u8
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: Super Sports Cricket HD
+https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F53044.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SKY Sports Cricket FHD HD
+https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F250199.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: Sdm Live Tv App " tvg-logo="" group-title="Sdm Live Tv",Pk: Fox Cricket 501 HD 
+https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F247166.m3u8
 
 
 
