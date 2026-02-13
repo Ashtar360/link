@@ -29,7 +29,19 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="amazon" tvg-logo="https://.png" group-title="EXTRAS", amazon 
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="=" group-title="Sdm Live Tv",PK: Astro Cricket HD
+https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F451415.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: Super Sports Cricket HD
+https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F53044.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SKY Sports Cricket FHD HD
+https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F250199.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: Sdm Live Tv App " tvg-logo="" group-title="Sdm Live Tv",Pk: Fox Cricket 501 HD 
+https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F247166.m3u8
+
+#EXTINF:-1 tvg-id="Amazon" tvg-logo="https://.png" group-title="EXTRAS", Amazon 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
 https://a120live-pv-ta-amazon.akamaized.net/syd-nitro/live/clients/dash/enc/83taeafait/out/v1/8f460e2902ee422e9ee8229e6de25719/cenc.mpd
@@ -39,7 +51,7 @@ https://a120live-pv-ta-amazon.akamaized.net/syd-nitro/live/clients/dash/enc/83ta
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
-#EXTINF:-1 tvg-id=" Andtv Hd" tvg-logo="https://png" group-title="EXTRAS", Andtvhd
+#EXTINF:-1 tvg-id=" And tv Hd" tvg-logo="https://png" group-title="EXTRAS", Andtvhd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
@@ -226,17 +238,6 @@ https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2F
 #EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 5 HD
 https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F453435.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="=" group-title="Sdm Live Tv",PK: Astro Cricket HD
-https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F451415.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: Super Sports Cricket HD
-https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F53044.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SKY Sports Cricket FHD HD
-https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F250199.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: Sdm Live Tv App " tvg-logo="" group-title="Sdm Live Tv",Pk: Fox Cricket 501 HD 
-https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F247166.m3u8
 
 
 
