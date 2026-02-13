@@ -173,7 +173,7 @@ https://tplay.live/out/bangladesh/maasranga.index.m3u8
 #EXTINF:-1 tvg-name="GAZI TV HD (Source 2)" tvg-logo="https://bdixtv24.com/wp-content/uploads/2025/01/gtv.png" group-title="",GAZI TV HD (Source 2)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports 1 HD
+#EXTINF:-1 tvg-="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports 1 HD
 https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52094.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports 2 HD
@@ -194,7 +194,7 @@ https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2F
 #EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 2 HD
 https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52085.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 3 HD
 https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52086.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 4 Tamil
@@ -212,7 +212,7 @@ https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2F
 #EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 5 HD
 https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F453435.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: Astro Cricket HD
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="=" group-title="Sdm Live Tv",PK: Astro Cricket HD
 https:\/\/siam3310.ami.bd\/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F451415.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: Super Sports Cricket HD
