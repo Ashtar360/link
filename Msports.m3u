@@ -56,6 +56,9 @@ https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWQ8RZyUbkyQmobT7TNMiqZ7YsSy1m0I-R2t21XZ2PA&s=10", A SPORTS HD 
 http://starshare.net:80/live/farhat-3379/67897-913379/43444.ts
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWQ8RZyUbkyQmobT7TNMiqZ7YsSy1m0I-R2t21XZ2PA&s=10", A SPORTS HD
+https://webott.viatv.com.np/v0t1/ASportsHd/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwQ0O4j0cTexKXYU2XfspIxWJoOoqeBIJeowVE1VB8g&s=10", SOLH SPORTS 
 https://stream1.liveland.af/hls/tv/solh-sports/playlist.m3u8
 
