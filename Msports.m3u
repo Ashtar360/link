@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="M sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2135bf415cfea9ea3e6b26a6fce8fc3:2671da359a0a860668baca2e34f243f6
-https://a120live-pv-ta-amazon.akamaized.net/sin-nitro/live/clients/dash/enc/cjfgjgm8nr/out/v1/4b134e64cd5e4be38f9d00bb96fc4a0a/cenc.mpd
+#2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/f7pxlimuvz/out/v1/2298afadf64943adb0b44dc540ace1ce/cenc.mpda/cenc.mpd
 
 #EXTINF:-1 group-title="M sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
