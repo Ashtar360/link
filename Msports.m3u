@@ -173,12 +173,10 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8
 #KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-id="Tnt3" tvg-logo="https://iili.io/dIH68sn.png" group-title="Khan14 Sports", TNT SPORTS 4 HD
+#EXTINF:-1 tvg-id="Tnt3" tvg-logo="https://iili.io/dIH68sn.png" group-title=" Msports", TNT SPORTS 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshEJRSr7B8KdYFY119B1vMrL1uREd4M3SKLhhJpv4_A&s=10" group-title=" Msports",Sky Sports Premier League
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -280,6 +278,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Xzoj8ac8TJarq85f_-ewaw","kid":"Jt-G7uuwTX-8RclI926B_Q"}],"type":"temporary"}
 #EXTINF:1 tvg-id="&TV SD" group-title="ZEE5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="Movies & Drama",&TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+
+#EXTINF:-1 tvg-id=" Shortstv2 " tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png",Shortstv2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
 #EXTINF:-1 tvg-id=" Koreandramas2 " tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png"EXTRAS", Koreandramas2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
