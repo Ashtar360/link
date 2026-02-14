@@ -173,6 +173,81 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8
 #KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshEJRSr7B8KdYFY119B1vMrL1uREd4M3SKLhhJpv4_A&s=10" group-title=" Msports",Sky Sports Premier League
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2lD3AsZctghFY0fxebTHK6iX36gkNvdxx5Xe1Qtb2Q&s=10" group-title=" MSports",Sky Sports Top Event
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
+https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZCzP4YNQ55-qBl1r5qN46lFkvcCvOGnTBoA&usqp=CAU" group-title=" Msports",Sky Sports Bundesliga
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
+https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGbfAiQuiYpAG5zsC3aE1k7lCvWi7TqFoyXxAd8r4Ig&s=10" group-title=" Msports ",Fubo Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681
+https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
+
+#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://iili.io/HpZ3vrx.png " group-title=" Msports", EUROSPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://iili.io/HpZ3SdQ.png" group-title=" Msports ",  EUROSPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+
+#EXTINF:-1 tvg-id="Beinsports1" tvg-logo="https://iili.io/HpLlECJ.png" group-title="Msports", Beinsports1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335DAD778109954503DCBB21DC92015F:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="Beinsports2" tvg-logo="https://iili.io/HpLl0Qa.png" group-title="Msports", Beinsports2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="Beinsports3" tvg-logo="https://iili.io/HpLlGEv.png" group-title="Msports", Beinsports3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 group-title=" Msports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdwm3mPw7OhVjGIX86utM7LK79YY2d5kdmPKT71LJEg&s=10", TNA WRESLTING
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=7i_tL-zxc2DkGWCTqzn5
+
+#EXTINF:-1 group-title="Msports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIyVE_i5wY5rCKMghMo-ecag6M1VCu6OWykBf1QAbqGBVmcxQHyNizkw8&s=10", TVRI SPORYS
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 group-title="Khan14 Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_FIFA.svg/330px-Flag_of_FIFA.svg.png", FIFA 1
+https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
+
+#EXTINF:-1 group-title=" Msports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_FIFA.svg/330px-Flag_of_FIFA.svg.png", FIFA 2
+https://dtjdiffefl00u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z1wjerfevs3hx/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 group-title=" Msports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzORGLu6JYFVTMrbPwNZDAmc1-BUON_d349eG4uvJn1w&s=10", PERSIANA SPORTS 1
+https://stream1.liveland.af/hls/tv/persiana-sports/playlist.m3u8
+
+#EXTINF:-1 group-title=" Msports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzORGLu6JYFVTMrbPwNZDAmc1-BUON_d349eG4uvJn1w&s=10", PERSIANA SPORTS 2
+https://stream1.liveland.af/hls/tv/persiana-sports-2/playlist.m3u8
+
+#EXTINF:-1 group-title=" Msports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6cq9ZBCoMeXwQ_Rf9snwgl5QttcuYIBmE5QjtMFO9A&s=10", VARZESH TV
+https://stream1.liveland.af/hls/tv/varzesh/playlist.m3u8
+
+#EXTINF:-1 group-title=" Msports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/VarzishTV.jpg", VARZESH TAJIKISTAN
+https://stream1.liveland.af/hls/tv/varzesh-tajikistan/playlist.m3u8
+
+#EXTINF:-1 group-title=" Msports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpcqL3UYy5X0qyyWmRvu3VAomK9u2isTmB5ro7-k85g&s=10", FOOTBALL TAJIKISTAN 
+https://stream1.liveland.af/hls/tv/footbal/playlist.m3u8
+
+#EXTINF:-1 group-title=" Msports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhdlyQ3dmKWG5avSjhum-GutcQWF27S3JsmYt2ooMCQ&s=10", MMA JUNKIE
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
 #EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="Movies & Drama",Zee TV HD
