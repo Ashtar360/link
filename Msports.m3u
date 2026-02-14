@@ -32,8 +32,11 @@ https://tencentcdn8.tamashaweb.com/v1/019bf00087161567ee93346674d025/019bffb7d77
 #EXTINF:-1 group-title="Msport" tvg-logo="https://iili.io/fQshfCx.jpg", Pro ICC T20 WC 2026
 https://alibabacdn5.tamashaweb.com/alibaba05/alibaba05stream.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 1
 https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52106.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2hvqX48lcUJGZasl4Nc1NEruAXOmd4CFHMlUH_pU-A&s=10", TEN SPORTS HD 2
+https://cdn07isb.tamashaweb.com:8087/YlUHeDQb7a/157-3H/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXJIjVua2SK8BFONaYJ9RM5e6xdUxcA5tPH_VLO9wBw&s=10", T SPORTS HD
 http://starshare.net:80/live/farhat-3379/67897-913379/130714.ts
