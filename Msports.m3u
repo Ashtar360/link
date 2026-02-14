@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="M sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
-https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/f7pxlimuvz/out/v1/2298afadf64943adb0b44dc540ace1ce/cenc.mpda/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5fd41a4c5e076f3e643ca6a935de35b4:52dae8422ee763268e8984792fbc2eac
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/prahkjmtlv/out/v1/94cbbaf6dfdd4b3eb37bb07708795976/cenc.mpdcenc.mpda/cenc.mpd
 
 #EXTINF:-1 group-title="M sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=def3badd95f839d4682eb92c966c715e:2e1b1c0cc049dd6bd56312be2140c6e6
-https://aba335jaaaaaaaamdpq7rwphbdty4.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/bbdup0zdgb/out/v1/ce95d81f287040d5a3fa6d4b145be849/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e2135bf415cfea9ea3e6b26a6fce8fc3:2671da359a0a860668baca2e34f243f6
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/1pasle3psa/out/v1/d25c047441ed467595c8085109e0d73f/cenc.mpd040d5a3fa6d4b145be849/cenc.mpd
 
 #EXTINF:-1 group-title="Msports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
