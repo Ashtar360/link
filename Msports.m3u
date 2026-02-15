@@ -107,8 +107,6 @@ https://ranapk.online/tvd/play.php?id=944693
 #EXTINF:-1 tvg-id=" Msports " tvg-name="SP: Fox sports 507 " tvg-logo="http://stmify.com/wp-content/uploads/2024/10/198-s-300x169.webp?resize=100x100&format?channelTile" group-title="Sdm Live Tv",Pk: Fox sports 507
 https://ranapk.online/tvd/play.php?id=944694
 
-#EXTINF:-1 tvg-id=" Msports " tvg-name="SP: Willow sports " tvg-logo="http://stmify.com/wp-content/uploads/2024/10/198-s-300x169.webp?resize=100x100&format?channelTile" group-title="Sdm Live Tv",Pk: Fox sports 503
-
 #EXTINF:-1 group-title=" Msports " tvg-logo="https://archive.org/services/img/SkySportsMainEvent_201708", SKY SPORTS CRICKET 
 https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F250199.m3u8
 
@@ -595,12 +593,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 #EXTINF:1 tvg-id="Zee Bollywood" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658e6b59efbc9c5471f9392f477f91f0c11.png" group-title="Movies & Drama",Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"-fiy4wcERYuNuESihc4yvg","kid":"8PsU7r5HSmq3TIMB1VpyJA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="Zing" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Movies & Drama",Zing
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PD6NAln3SPGDD3E6dpdg5w","kid":"nXoZF+4yRNGYGTzdH/H+rg"}],"type":"temporary"}
@@ -647,12 +643,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
 
-
 #EXTINF:-1 tvg-id=" Discovery Science " tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png"EXTRAS", Discovery Science
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
-
 
 #EXTINF:-1 tvg-id=" Discovery Turbo " tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png"EXTRAS", Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -663,4 +657,86 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a457a6a58184234ba9bfa6916ce8013:ef3dd80894774430a33ecbc9108e91d7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 1
+https://ranapk.online/tvd/play.php?id=911324
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F250211.m3u8
+
+EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", Ten Cricket 
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F658436.m3u8
+
+EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", Asports
+https://crichd.xfireflix.workers.dev/live.php?id=ptvpk
+https://webott.viatv.com.np/v0t1/ASportsHd/playlist.m3u8
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F190767.m3u8
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F62393.m3u8
+
+EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", Willow 2
+https://ranapk.online/tvd/play.php?id=858676
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52109.m3u8
+
+EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", Willow 1
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+
+EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", T sports 
+https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
+
+
+EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", Btv National  
+https://www.btvlive.gov.bd/live/undefined/US/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
+
+EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png",  MAASRANGA HD
+https://tplay.live/out/bangladesh/maasranga.index.m3u8
+
+EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", Gazi tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports 1 HD
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52094.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports 2 HD
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52096.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports 1 Hindi HD
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F90342.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports Select 1 HD
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52098.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports Select 2 HD
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52100.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 1 HD
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52083.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 2 HD
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52085.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 3 HD
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52086.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 4 Tamil
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957581.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 4 English
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957589.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 4 Telugu
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957588.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 4 HD
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957590.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: SONY TEN 5 HD
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F453435.m3u8
+
+#EXTINF:-1 group-title="Msports" tvg-logo="https://", Astro Cricket HD
+https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F451415.m3u8
+
+
+
+EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 1
+
+EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 1
+
 
