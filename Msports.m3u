@@ -536,7 +536,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="Amazon" tvg-logo="https://i.postimg.cc/Jnd9k7Cy/anmol-tv.jpg"EXTRAS", Amazon 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
+#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
 https://a120live-pv-ta-amazon.akamaized.net/syd-nitro/live/clients/dash/enc/83taeafait/out/v1/8f460e2902ee422e9ee8229e6de25719/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
