@@ -914,9 +914,91 @@ https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-telugu-white.png?type=channelTile" group-title="Sdm Live Tv",Pk: Now sports 
 http://hls.168.us.kg/u/630/stream_0.m3u8?u=ru&p=681cfe61cfaa9b629ef23f51a193b2008a1dfa6345d8a5cf4feeff6af1349b6f&uid=984556281
 
+#EXTINF:-1 tvg-id=" WildFlix_IN " tvg-logo="https://png" group-title="EXTRAS", WildFlix_IN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
+     
+#EXTINF:-1 tvg-id=" HouseOfCrime_IN " tvg-logo="https://png" group-title="EXTRAS", HouseOfCrime_IN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cc-y2z89muounal4.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y2z89muounal4/IQJW/WBD/HouseOfCrime_IN/HouseOfCrime_IN.m3u8
 
-EXTINF:-1 group-title="Sports" tvg-logo="https://", PTV SPORTS HD 1
+#EXTINF:-1 tvg-id=" FoodieHub_IN " tvg-logo="https://png" group-title="EXTRAS", FoodieHub_IN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cc-oq5ndvigrlkaa.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oq5ndvigrlkaa/IQJW/WBD/FoodieHub_IN/FoodieHub_IN.m3u8
 
-EXTINF:-1 group-title="Sports" tvg-logo="https://", PTV SPORTS HD 1
+#EXTINF:-1 tvg-id="" tvg-name="CR: Sdm Live Tv App " tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vNWRiOWQ5YzAtNjY2Zi00MTUzLWE1NWItMGRlMDc0YWJhMGM3?id=53" group-title="Sdm Live Tv",Pk: Tennis
+https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8?channel_name=Tennis%20TV&content_genre=Sport%2CTennis&ic=IAB17%2CIAB17-40&provider=FreeLiveSports&us_privacy=1---&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&language=en&url=https%3A%2F%2Fwatch.freelivesports.tv%2Fpages%2Fdiscover%2Fe%2Flive-tv%3Fchannel%3D687a783e928ee2ca866b7faa&lmt=0&did=OOujlb
 
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa4713cf8-8897-41c2-bab4-132f733d3f5f%2FTC2_Logo_Plex_1500X1000_LightRDX.png?type=channelTile" group-title="Sdm Live Tv",Pk: TENNIS
+https://fl31.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://stmify.com/wp-content/uploads/2024/09/123-s-300x169.webp?type=channelTile" group-title="Sdm Live Tv",Pk: Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://stmify.com/wp-content/uploads/2024/09/131-s-300x169.webp?type=channelTile" group-title="Sdm Live Tv",Pk: B4U_Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/SD216/SD216.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://stmify.com/wp-content/uploads/2025/02/513-s.webp?type=channelTile" group-title="Sdm Live Tv",Pk: BABY_TV
+https://ml-pull-dvc-myco.io:2096/BABY_TV/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://stmify.com/wp-content/uploads/2024/09/113-s-300x169.webp?type=channelTile" group-title="Sdm Live Tv",Pk: gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Green-Gold-TV-India-_black.png?type=channelTile" group-title="Sdm Live Tv",Pk: Gold-TV
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Hooray-Rhymes_black.png?type=channelTile" group-title="Sdm Live Tv",Pk: Hooray-Rhymes
+https://qn-01273-pol-1-01-1---7247-amyp.http.global.dns.qwilted-cds.cqloud.com/OTM/OTM_KidsToonsHindi-SCTE_CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Kiddo512X512_blackz1.png?type=channelTile" group-title="Sdm Live Tv",Pk: KIDDO
+https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-telugu-white.png?type=channelTile" group-title="Sdm Live Tv",Pk: wow-Motu patlu 
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-telugu-white.png?type=channelTile" group-title="Sdm Live Tv",Pk: Green_Gold
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Green_Gold_India/eu/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://stmify.com/wp-content/uploads/2025/05/510-s.webp?type=channelTile" group-title="Sdm Live Tv",Pk: Cbeebies
+https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://stmify.com/wp-content/uploads/2024/10/202-s.webp?type=channelTile" group-title="Sdm Live Tv",Pk: zoomoonz
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-02_07_44-PM-1-185x278.png?type=channelTile" group-title="Sdm Live Tv",Pk: KiddoMatix
+https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-01_56_50-PM-1-200x300.png?type=channelTile" group-title="Sdm Live Tv",Pk: jungle book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-17-2025-04_24_29-PM-1-200x300.png?type=channelTile" group-title="Sdm Live Tv",Pk: XXtremeJobs
+https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zko1curyce7jh/IQJW/WBD/XXtremeJobs_IN/XXtremeJobs_IN.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_42_47-AM-1-200x300.png?type=channelTile" group-title="Sdm Live Tv",Pk: giatv
+https://live20.bozztv.com/giatvplayout7/giatv-210728/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-23-2025-03_39_04-PM-1-200x300.png?type=channelTile" group-title="Sdm Live Tv",Pk: master
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984026&ads.xumo_streamId=99984026
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-09_38_43-AM-1-185x278.png?type=channelTile" group-title="Sdm Live Tv",Pk: master
+https://d24c0gmuazjo9x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9glk984r1jvda/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="http://oxolive.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-18-2025-11_37_38-AM-185x278.png?type=channelTile" group-title="Sdm Live Tv",Pk: abc-kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/07/ChatGPT-Image-Oct-24-2025-09_10_12-AM-1-200x300.png?type=channelTile" group-title="Sdm Live Tv",Pk: Moonbug
+https://dq2a9ghraf7sw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxq18dopv0o6q/Moonbug.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://uvotv.com/uploads/live/2697/87981671-9686-47ce-888b-e05ec4730cd2-origin-poster.png?resize=100x100&format=webp?resize=100x100&format=webp?type=channelTile" group-title="Sdm Live Tv",Pk: planetfun
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="http://uvotv.com/uploads/live/2577/d218e59d-6b70-4d2d-9c9d-82106d9bda7f-origin-poster.png?resize=100x100&format?channelTile" group-title="Sdm Live Tv",Pk: zeeoneuk
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://stmify.com/wp-content/uploads/2025/03/537-s.webp?channelTile" group-title="Sdm Live Tv",Pk: Kids
+http://163.61.227.29:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://stmify.com/wp-content/uploads/2024/08/99-s.webp?channelTile" group-title="Sdm Live Tv",Pk: HarPalGeo
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
