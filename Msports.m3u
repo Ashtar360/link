@@ -131,6 +131,7 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesu
 
 #EXTINF:-1 tvg-id=" Willow " tvg-logo="https://i.postimg.cc/L4b8S5Df/willow.jpg"EXTRAS", Willow 2
 https://fl2.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist216p.m3u8
 
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3bsjwG8y9QEvLRRp6pIcw1OkuxBa8QU0Pg&usqp=CAU" group-title="sports", Cricbuzz 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -900,6 +901,9 @@ https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-telugu-white.png?type=channelTile" group-title="Sdm Live Tv",Pk: Zee tv
 https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-telugu-white.png?type=channelTile" group-title="Sdm Live Tv",Pk: Sonykal_1
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-telugu-white.png?type=channelTile" group-title="Sdm Live Tv",Pk: Channel 9
 https://tplay.live/out/bangladesh/channel9.index.m3u8
