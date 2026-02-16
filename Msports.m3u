@@ -549,6 +549,8 @@ https://anywhere.pwisetthon.com/http://217.20.112.199:8888/lifeokhd/index.m3u8
 #EXTINF:-1 tvg-id="Amazon" tvg-logo="https://i.postimg.cc/kMQ4KLhT/sab.jpg"EXTRAS", Sony Sab
 https://anywhere.pwisetthon.com/http://217.20.112.199:8888/sabtvhd/index.m3u8
 
+#EXTINF:-1 tvg-id="Amazon" tvg-logo="https://i.postimg.cc/kMQ4KLhT/sab.jpg"EXTRAS", Sony Sab hd
+https://mrzplayin.fun/roarzon/?watch=40088c65ce2adcdcd73a802c8339c744
 
 #EXTINF:-1 tvg-id="Amazon" tvg-logo="https://i.postimg.cc/Jnd9k7Cy/anmol-tv.jpg"EXTRAS", Amazon 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
