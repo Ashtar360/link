@@ -1,11 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="706" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5523acf1f55485476817958a62a3f2ed9:52b3cea435ed25d445f9eae4883c7001
+#KODIPROP:inputstream.adaptive.license_key=523acf1f55485476817958a62a3f2ed9:52b3cea435ed25d445f9eae4883c7001
 #EXTVLCOPT:http-user-agent=@TonyStark830
 #EXTHTTP:{ "cookie":"hdnea=st=1771249396~exp=1771335796~acl=/*~hmac=cc75e35c45ee9587132b20f77cd275d0df3994a5b035c0d1654da5746bf32d0d" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_BTS/output/index.mpd?hdnea=st=1771249396~exp=1771335796~acl=/*~hmac=cc75e35c45ee9587132b20f77cd275d0df3994a5b035c0d1654da5746bf32d0d
-
 #EXTINF:-1 group-title="M sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=700b2e693819b6193543a8ec20627383:39dbd9105095530793ea9dbfb6cc418a
