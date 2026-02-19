@@ -8,8 +8,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_BTS/output/index.mpd?hdnea=st=1771
 
 #EXTINF:-1 group-title="M sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=700b2e693819b6193543a8ec20627383:39dbd9105095530793ea9dbfb6cc418a
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/cj4rwabldn/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/108rikwly7/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd
 
 #EXTINF:-1 group-title="M sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
