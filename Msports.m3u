@@ -1331,4 +1331,41 @@ https://edge2.roarzone.info:8445/roarzone/edge3/zee-anmol/index.m3u8
 #EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/93.png" group-title="music", zing
 https://edge2.roarzone.info:8445/roarzone/edge3/zing/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", willowusa
+https://wasitv-pro.site/dd.php?c=willowextra
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", tenspk
+https://wasitv-pro.site/dd.php?c=tenspk
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", star1in
+https://wasitv-pro.site/dd.php?c=star1in
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", starhindi
+https://wasitv-pro.site/dd.php?c=starhindi
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", asportshd
+https://wasitv-pro.site/dd.php?c=asportshd
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", skysme
+https://wasitv-pro.site/dd.php?c=skysme
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", skysprem
+https://wasitv-pro.site/dd.php?c=skysprem
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", starsport2
+https://anywhere.pwisetthon.com/http://103.99.249.139/starsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", sonysab
+https://anywhere.pwisetthon.com/http://103.99.249.139/sonysab/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", sonyten3
+https://anywhere.pwisetthon.com/http://103.99.249.139/sonyten3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", sonyyay
+https://anywhere.pwisetthon.com/http://103.99.249.139/sonyyay/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", stream.ads
+https://stream.ads.ottera.tv/cl/260223d6e4ioa5928agc4qspmg/1280x720_3071200_0_f.m3u8?i=475_6613
+
+
 
