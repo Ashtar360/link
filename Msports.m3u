@@ -30,8 +30,8 @@ https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 
 #EXTINF:-1 group-title="Msports" tvg-logo="https://iili.io/fplaloP.jpg", SKY SPORTS 1 4K
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
-https://dice-live-oc.akamaized.net/hdntl=exp=1770902070~acl=%2f*~id=2509d074-8ca8-4346-a502-31677277fc57~data=hdntl,dWlkPTk2NDM3fGRjZS5za3lueiZpcD0xMTYuMjUxLjEyOC4yNTQmZXhwPTE3NzA5MDIwOTkmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=9acfe801da9f4571b8b327500966f65fe69151f4dfd85272e11852b87c8ad198/dash/live/2093721/294921-316094/manifest-d.mpd
+#KODIPROP:inputstream.adaptive.license_key=ceb8371767f88b8d91da72b09b016ee847df2952dd31a895095a80b16e6904e5
+https://planetary.lovecdn.ru/SkyNZ1/index.m3u8?token=U2t5TloxfG5vX2NoZWNrX2lwfDE3NzE5NDM1NDk
 
 #EXTINF:-1 group-title="Msports" tvg-logo="https://iili.io/fplaloP.jpg", SKY SPORTS 2 4K
 https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/playlist.m3u8
