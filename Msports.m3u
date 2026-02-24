@@ -1017,7 +1017,7 @@ https://qn-01273-pol-1-01-1---7247-amyp.http.global.dns.qwilted-cds.cqloud.com/O
 #EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Kiddo512X512_blackz1.png?type=channelTile" group-title="Sdm Live Tv",Pk: KIDDO
 https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-telugu-white.png?type=channelTile" group-title="Sdm Live Tv",Pk: wow-Motu patlu 
+#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://i.postimg.cc/sgxQd9gz/motu-patlu.jpg",type=channelTile" group-title="Sdm Live Tv",Pk: wow-Motu patlu 
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-telugu-white.png?type=channelTile" group-title="Sdm Live Tv",Pk: Green_Gold
