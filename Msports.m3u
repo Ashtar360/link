@@ -611,12 +611,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #EXTINF:-1 tvg-id="& Pictures SD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png" group-title="Movies & Drama",&Pictures SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
+#EXTINF:-1 tvg-id="& Pictures SD" tvg-logo="https://i.postimg.cc/7YJXRsp7/gold.jpg" group-title=" Star Gold
+https://anywhere.pwisetthon.com/http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
+
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/epgdata/a5f8b8d698133ad07c19b5c7a56a7de6.png?" group-title="?,Superfine Films
 https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://i.postimg.cc/KvFqjytv/mix-h.jpg?" group-title="?, group-title="?,MIX Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -1394,5 +1396,7 @@ https://anywhere.pwisetthon.com/http://103.99.249.139/sonyyay/index.m3u8
 #EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", stream.ads
 https://stream.ads.ottera.tv/cl/260223d6e4ioa5928agc4qspmg/1280x720_3071200_0_f.m3u8?i=475_6613
 
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s160-c-k-c0x00ffffff-no-rj?" group-title="?,
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 
 
