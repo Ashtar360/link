@@ -185,10 +185,10 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-id="Tnt3" tvg-logo="https://iili.io/dIH68sn.png" group-title=" Msports", TNT SPORTS 4 HD
+#EXTINF:-1 tvg-id="Tnt3" tvg-logo="https://i.postimg.cc/SQwXQRTK/tnt4.jpg" group-title=" Msports", TNT SPORTS 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 group-title=" Msports" tvg-logo="https://iili.io/fb6JLdX.jpg", MBC SPORTS 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
