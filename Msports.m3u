@@ -1,4 +1,17 @@
 #EXTM3U
+
+"channel_id": "1393",
+    "name": "Sony Wah",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
+    "category": "Entertainment",
+    "mpd": "https://mini.allinonereborn.fun/jtv-plus/jtv.php/SonyWAH_MOB/WDVLive/index.mpd",
+    "token": "__hdnea__=st=1772023356~exp=1772109756~acl=/*~hmac=0095cde446f84ff4a00016dd2b41d4a8a84348dbbca036c919418aa08352f1f9",
+    "referer": "https://www.jiotv.com/",
+    "userAgent": "@allinone_reborn",
+    "drm": {
+      "336eb0b114415971a745af85368c8a7c": "4dc9974ddfec2c6da275acd6d617661b"
+    
+
 #EXTINF:-1 group-title="M sports" tvg-logo="https://iili.io/fmPkYcG.jpg", PRIME VIDEO MATCH 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=baafdb8ebcbbc0655332291da6f121da:60ac892e0ea0b2c46fc6837c97ed641a
