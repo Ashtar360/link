@@ -724,26 +724,18 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png", PTV SPORTS HD 1
 https://ranapk.online/tvd/play.php?id=911324
 https://crichd.xfireflix.workers.dev/live.php?id=ptvpk
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F250211.m3u8
-
-#EXTINF:-1 group-title="Msports" tvg-logo="https://", Ten Cricket 
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F658436.m3u8
 
 #EXTINF:-1 group-title="Msports" tvg-logo="https://", Asports
 https://webott.viatv.com.np/v0t1/ASportsHd/playlist.m3u8
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F190767.m3u8
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F62393.m3u8
 
 #EXTINF:-1 group-title="Msports" tvg-logo="https://", Willow 2
 https://ranapk.online/tvd/play.php?id=858676
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52109.m3u8
 
 #EXTINF:-1 group-title="Msports" tvg-logo="https://", Willow 1
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1 group-title="Msports" tvg-logo="https://", T sports 
 https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F111409.m3u8
 
 #EXTINF:-1 group-title="Msports" tvg-logo="https://", Btv National  
 https://www.btvlive.gov.bd/live/undefined/US/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
@@ -754,107 +746,9 @@ https://tplay.live/out/bangladesh/maasranga.index.m3u8
 #EXTINF:-1 group-title="Msports" tvg-logo="https://", Gazi tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports 1 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52094.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports 2 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52096.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports 1 Hindi HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F90342.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: Star Sports Khel
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957586.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: Star Sports 1 HD Kannada
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957580.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: Star Sports 1 Telugu
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957583.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: Star Sports tamil
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957582.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: Star Sports 2 HD Kannada
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957587.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: Star Sports 2 Telugu
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957585.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: Star Sports 2 Tamil
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957584.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: Super Sports Cricket  HD
-Star Sports 2 Tamil
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports Select 1 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52098.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: STAR Sports Select 2 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52100.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 1 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52083.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 2 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52085.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 2 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F52086.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 4 Tamil
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957581.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 4 English
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957589.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 4 Telugu
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957588.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="https://?id=" group-title="Sdm Live Tv",PK: SONY TEN 4 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F957590.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: SONY TEN 5 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F453435.m3u8
-
-#EXTINF:-1 group-title="Msports" tvg-logo="https://", Astro Cricket HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F451415.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: Super Sports Cricket  HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F53044.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: SKY Sports Cricket FHD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F250199.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: FOX Cricket 501 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F247166.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: CRICKET GOLD HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F277207.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: Super EURO Sports HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F297577.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: TNT Spots 1 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F529243.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: TNT Spots 2 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F529247.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: TNT Spots 3 HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F529251.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK:  BEIN SPORTS (1)
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F683620.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: BEIN SPORTS (2)
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F683623.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: BEIN SPORTS (3)
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F683626.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CR: " tvg-logo="" group-title="Sdm Live Tv",PK: RTA Sport HD
-https://siam3310.ami.bd/hls_proxy.php?url=http%3A%2F%2Ffilex.me%3A8080%2Flive%2FMAS101A%2FMAS101AABB%2F333340.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-09_05_07-AM-1-185x278.png?channelTile" group-title="Sdm Live Tv",Pk: Doraemon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
@@ -1053,8 +947,6 @@ https://c.mjh.nz/abc-kids.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://oxolive.com/wp-content/uploads/2025/07/ChatGPT-Image-Oct-24-2025-09_10_12-AM-1-200x300.png?type=channelTile" group-title="Sdm Live Tv",Pk: Moonbug
 https://dq2a9ghraf7sw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxq18dopv0o6q/Moonbug.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="https://uvotv.com/uploads/live/2697/87981671-9686-47ce-888b-e05ec4730cd2-origin-poster.png?resize=100x100&format=webp?resize=100x100&format=webp?type=channelTile" group-title="Sdm Live Tv",Pk: planetfun
 
 #EXTINF:-1 tvg-id="" tvg-name="SP: Willow Cricket HD" tvg-logo="http://uvotv.com/uploads/live/2577/d218e59d-6b70-4d2d-9c9d-82106d9bda7f-origin-poster.png?resize=100x100&format?channelTile" group-title="Sdm Live Tv",Pk: zeeoneuk
 
