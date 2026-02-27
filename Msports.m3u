@@ -1394,10 +1394,79 @@ https://anywhere.pwisetthon.com/http://103.99.249.139/sonyten3/index.m3u8
 #EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", sonyyay
 https://anywhere.pwisetthon.com/http://103.99.249.139/sonyyay/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="hindi", stream.ads
-https://stream.ads.ottera.tv/cl/260223d6e4ioa5928agc4qspmg/1280x720_3071200_0_f.m3u8?i=475_6613
-
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s160-c-k-c0x00ffffff-no-rj?" group-title=",All Time Movies
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", starhindi
+https://siam3310.ami.bd/crichdmini/player.php?channel=starhindi
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", star1in
+https://siam3310.ami.bd/crichdmini/player.php?channel=star1in
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", ptvpk
+https://siam3310.ami.bd/crichdmini/player.php?channel=ptvpk
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", ten1hd
+https://siam3310.ami.bd/crichdmini/player.php?channel=ten1hd
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", willowusa
+https://siam3310.ami.bd/crichdmini/player.php?channel=willowusa
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", tenspk
+https://siam3310.ami.bd/crichdmini/player.php?channel=tenspk
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", willowextra
+https://siam3310.ami.bd/crichdmini/player.php?channel=willowextra
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", asportshd
+https://siam3310.ami.bd/crichdmini/player.php?channel=asportshd
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", skyscric
+https://siam3310.ami.bd/crichdmini/player.php?channel=skyscric
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", skysme
+https://siam3310.ami.bd/crichdmini/player.php?channel=skysme
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", skysact
+https://siam3310.ami.bd/crichdmini/player.php?channel=skysact
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", skysgol
+https://siam3310.ami.bd/crichdmini/player.php?channel=skysgol
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", skysprem
+https://siam3310.ami.bd/crichdmini/player.php?channel=skysprem
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", skysfott
+https://siam3310.ami.bd/crichdmini/player.php?channel=skysfott
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", skysare
+https://siam3310.ami.bd/crichdmini/player.php?channel=skysare
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", skysfor1
+https://siam3310.ami.bd/crichdmini/player.php?channel=skysfor1
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", skyspnews
+https://siam3310.ami.bd/crichdmini/player.php?channel=skyspnews
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", bbtsp1
+https://siam3310.ami.bd/crichdmini/player.php?channel=bbtsp1
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", bbtsp2
+https://siam3310.ami.bd/crichdmini/player.php?channel=bbtsp2
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", bbtsp3
+https://siam3310.ami.bd/crichdmini/player.php?channel=bbtsp3
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", bbtespn4
+https://siam3310.ami.bd/crichdmini/player.php?channel=bbtespn4
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", premieruk
+https://siam3310.ami.bd/crichdmini/player.php?channel=premieruk
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", hdchnl2
+https://siam3310.ami.bd/crichdmini/player.php?channel=hdchnl2
+
+#EXTINF:-1 tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title=", supercricket
+https://siam3310.ami.bd/crichdmini/player.php?channel=supercricket
 
 
