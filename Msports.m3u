@@ -40,6 +40,48 @@ https://cdn-live-tv.ru/api/v1/channels/nz-sky-sport-2/playlist.m3u8
 #EXTINF:-1 group-title=" Msports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuUFOY-S9_ISnsKuTrWTiy3i_rxTGeWlVrrSMtUR_hJA&s", AF SPORTS
 https://planetary.lovecdn.ru/SkyNZ1/index.m3u8?token=U2t5TloxfG5vX2NoZWNrX2lwfDE3NzE5NDM1NDk=.ceb8371767f88b8d91da72b09b016ee847df2952dd31a895095a80b16e6904e5
 
+#EXTINF:-1 group-title=" Msports " tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png", HUB SPORTS 4
+http://starshare.net:80/live/farhat-3379/67897-913379/196347.ts
+
+#EXTINF:-1 group-title=" Msports " tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042505032176_56.png", HUB SPORTS 7
+http://starshare.net:80/live/farhat-3379/67897-913379/148166.ts
+
+#EXTINF:-1 group-title=" Msports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoxmWjOgrGXuKzNLz9sBZdr-WIXOsW6uLRTv15QxJ&s=10", HUB SPORTS 8
+http://starshare.net:80/live/farhat-3379/67897-913379/148167.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title=" Msports " group-title="",Star Sports 1 HD
+http://starshare.net:80/live/farhat-3379/67897-913379/675816.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title=" Msports " group-title="",Star Sports Hindi HD
+http://starshare.net:80/live/farhat-3379/67897-913379/98866.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title=" Msports " group-title="",Star Sports 2 HD
+http://starshare.net:80/live/farhat-3379/67897-913379/675817.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title=" Msports " group-title="",Star Sports 2 HD Hindi
+http://103.180.212.191:3500/live/1984.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title=" Msports " group-title="",Star Sports 2 HD Hindi
+http://103.180.212.191:3500/live/1985.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title=" Msports " group-title="",Star Sports Select 1
+http://starshare.net:80/live/farhat-3379/67897-913379/98867.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title=" Msports " group-title="",Star Sports Select 2
+http://starshare.net:80/live/farhat-3379/67897-913379/98868.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"group-title=" Msports " group-title="",Sony Sports Ten 1 HD
+http://starshare.net:80/live/farhat-3379/67897-913379/98861.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title=" Msports " group-title="",Sony Sports Ten 2 HD
+http://starshare.net:80/live/farhat-3379/67897-913379/98862.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title=" Msports " group-title="",Sony Sports Ten 3 HD
+http://starshare.net:80/live/farhat-3379/67897-913379/98863.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title=" Msports " group-title="",Sony Sports Ten 5
+http://starshare.net:80/live/farhat-3379/67897-913379/98870.ts
+
 #EXTINF:-1 group-title="Msport" tvg-logo="https://iili.io/fQsjbJS.jpg", ICC T20 WC 2026
 https://tencentcdn8.tamashaweb.com/v1/019bf00087161567ee93346674d025/019bffb7d77215fc600b1b67f81952/TMSH_WEB2_DIRTY.m3u8
 
