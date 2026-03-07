@@ -1108,9 +1108,9 @@ http://103.182.170.32:8888/play/a02s
 http://103.229.254.25:7001/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="728672" group-title="┃ HINDI┃ INDIA EU" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony-SAB-Logo-2017.png",┃IN┃ SONY SAB
-http://103.182.170.32:8888/play/a03r
+http://103.182.170.32:8888/play/a03
 
-#EXTINF:-1 tvg-id="944607" group-title="┃ HINDI┃ INDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY WAH.png",┃HINDI┃ WWE HD
+#EXTINF:-1 tvg-id="944607"# group-title="┃ HINDI┃ INDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY WAH.png",┃HINDI┃ WWE HD
 https://dpv6ceilvhyrw.cloudfront.net/playlist360p.m3u8
 
 
