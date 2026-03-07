@@ -1041,12 +1041,6 @@ http://103.121.6.5:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s160-c-k-c0x00ffffff-no-rj?" group-title=",Star_Sports_2_Hindi
 http://111.88.78.21:8000/play/a0x8/index.m3u8
 
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s160-c-k-c0x00ffffff-no-rj?" group-title=",Star_Sports_2_Hindi_HD
-http://103.113.103.202:8001/play/a028/index.m3u8
-
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s160-c-k-c0x00ffffff-no-rj?" group-title=",Star_Sports_2_Tamil
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s160-c-k-c0x00ffffff-no-rj?" group-title=",
-
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s160-c-k-c0x00ffffff-no-rj?" group-title=",Star_Sports_2_Tamil_HD
 http://103.229.254.25:7001/play/a0d1/index.m3u8
 
