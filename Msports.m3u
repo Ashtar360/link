@@ -584,15 +584,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #EXTINF:1 tvg-id="&TV SD" group-title="ZEE5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="Movies & Drama",&TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ebcf53fd1794237aa02af52413e0c2a:bd2f5d20887507da6f26401b1d95aeee
-#EXTINF:1 tvg-id="&TV SD" group-title="ZEE5" tvg-logo="https://img.utdstc.com/icon/9d8/186/9d8186272082392409f8604d3499e2a3f6dc6a98acbc7bcc8a2c2f6ec435cec8:200",Starz 1
-https://live-crave.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef9474581754944303887/fe/f/crave/starz1/manifest.mpd?u=li
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
-#EXTINF:1 tvg-id="&TV SD" group-title="ZEE5" tvg-logo="https://img.utdstc.com/icon/9d8/186/9d8186272082392409f8604d3499e2a3f6dc6a98acbc7bcc8a2c2f6ec435cec8:200",Starz 2
-https://live-crave.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li
 
 #EXTINF:-1 tvg-id=" Shortstv2 " tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png",Shortstv2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1001,52 +992,8 @@ http://111.88.78.21:8000/play/a0x8/index.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s160-c-k-c0x00ffffff-no-rj?" group-title=",Star_Sports_2_Tamil_HD
 http://103.229.254.25:7001/play/a0d1/index.m3u8
 
-#EXTINF:-1 tvg-id="944607" group-title="┃ HINDI┃ INDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY WAH.png",┃HINDI┃ SONY WAH HD
-https://ranapk.online/RANAPK33x/TVDv/play.php?id=944607
-
-#EXTINF:-1 tvg-id="373071" group-title="┃ HINDI┃ INDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/sony bbc earth HD.png",┃HINDI┃ SONY BBC EARTH HD
-https://ranapk.online/RANAPK33x/TVDv/play.php?id=373071
-
-#EXTINF:-1 tvg-id="943925" group-title="┃ HINDI┃ INDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR USTAV HD.png",┃HINDI┃ STAR USTAV HD
-https://ranapk.online/RANAPK33x/TVDv/play.php?id=943925
-
-#EXTINF:-1 tvg-id="943734" group-title="┃ HINDI┃ INDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR BHARAT HD.png",┃HINDI┃ STAR BHARAT HD
-https://ranapk.online/RANAPK33x/TVDv/play.php?id=943734
-
-#EXTINF:-1 tvg-id="944624" group-title="┃ HINDI┃ INDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/2018_Animal_Planet_logo.svg.png",┃HINDI┃ ANIMAL PLANET HD
-https://ranapk.online/RANAPK33x/TVDv/play.php?id=944624
-
-#EXTINF:-1 tvg-id="373067" group-title="┃ HINDI┃ INDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY YAY.png",┃HINDI┃ SONY YAY HD
-https://ranapk.online/RANAPK33x/TVDv/play.php?id=373067
-
-#EXTINF:-1 tvg-id="373069" group-title="┃ HINDI┃ INDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY PAL.png",┃HINDI┃ SONY PAL HD
-https://ranapk.online/RANAPK33x/TVDv/play.php?id=373069
-
-#EXTINF:-1 tvg-id="373136" group-title="┃PK┃ PAKISTAN" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/Nick.png",┃IN┃ NICK
-http://103.182.170.32:8888/play/a04q
-
-#EXTINF:-1 tvg-id="944607" group-title="┃ HINDI┃ INDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY WAH.png",┃HINDI┃ Pogo HD
-http://103.182.170.32:8888/play/a02p
-
-#EXTINF:-1 tvg-id="373479" group-title="┃ASIA┃ TELEGU" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TELEGU/Sony_Yay_new.png",┃IN┃ SONIC
-http://103.182.170.32:8888/play/a02s
-
-#EXTINF:-1 tvg-id="373071" group-title="┃ HINDI┃ INDIA" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/sony bbc earth HD.png",┃HINDI┃ SONY BBC EARTH HD
-http://103.229.254.25:7001/play/a031/index.m3u8
-
-#EXTINF:-1 tvg-id="728672" group-title="┃ HINDI┃ INDIA EU" tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony-SAB-Logo-2017.png",┃IN┃ SONY SAB
-https://oppu.freelivtv.workers.dev/play.m3u8?id=221256
-
 #EXTINF:-1 tvg-id="689837" group-title="┃UK┃ OD NETFLIX" tvg-logo="http://picon.tivi-ott.net:25461/picon/PREMIERLEAGUE/NETFLIX.png",┃UK┃ NETFLIX WWE HD
 https://dpv6ceilvhyrw.cloudfront.net/playlist360p.m3u8
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXu_mcDc_8bL8zA2VXrbKADGFXSW_j5WfRnQ&s" group-title="bangla",Wow Kidz Hindi
 https://yuppparoriglin.akamaized.net//181224//smil:wowkidzhindi.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
